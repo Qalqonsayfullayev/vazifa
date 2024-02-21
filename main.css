@@ -1,0 +1,415 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    border-bottom: 1px solid #0082F4;
+
+}
+
+.header {
+    display: flex;
+    gap: 200px;
+    padding: 0 200px;
+}
+
+.header__logo {
+    width: 69px;
+height: 69px;
+top: 27px;
+left: 230px;
+margin-top: 25px;
+}
+
+.header__nav {
+    display: flex;
+    gap: 40px;
+    margin-top: 50px;
+}
+
+.header__nav__link {
+    width: 54px;
+height: 23px;
+top: 50px;
+left: 599px;
+font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+text-decoration: none;
+}
+
+.header__btn {
+    width: 161px;
+height: 52px;
+top: 36px;
+left: 1209px;
+border-radius: 6px;
+font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: center;
+color: #FFFFFF;
+background: #0082F4;
+border: 0;
+margin-top: 35px;
+}
+
+.old {
+    color: #0082F4;
+    border-bottom: #0082F4;
+}
+
+main {
+    padding: 0 200px;
+    margin: 0;
+    
+}
+
+.hero {
+    display: flex;
+    gap: 90px;
+}
+
+.hero__child {
+    margin-top: 170px;
+    width: 431px;
+height: 241px;
+top: 287px;
+left: 224px;
+border-radius: 10px;
+border: 1px;
+
+}
+
+.hero__h4 {
+    width: 236px;
+height: 29px;
+top: 287px;
+left: 224px;
+font-family: Roboto;
+font-size: 25px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0.1em;
+text-align: left;
+color: #0080FD;
+
+}
+
+.hero__h3 {
+    width: 531px;
+height: 148px;
+top: 321px;
+left: 224px;
+font-family: Roboto;
+font-size: 61px;
+font-weight: 700;
+line-height: 79px;
+letter-spacing: 0em;
+text-align: left;
+color: #000;
+margin-top: -40px;
+}
+
+.hero__p {
+    width: 436px;
+height: 46px;
+top: 489px;
+left: 224px;
+opacity: 0.6px;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: -40px;
+}
+
+.hero__child2 {
+    display: flex;
+    gap: 30px;
+}
+
+.hero__btn {
+    width: 174px;
+height: 63px;
+top: 565px;
+left: 224px;
+border-radius: 10px;
+font-family: Roboto;
+font-size: 20px;
+font-weight: 500;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: center;
+color: #FFFFFF;
+background: #0082F4;
+border: 0;
+}
+
+.hero__btn2 {
+    display: flex;
+    gap: 15px;
+    width: 188px;
+height: 63px;
+top: 565px;
+left: 448px;
+border-radius: 10px;
+border: 1px;
+border: 1px solid #0082F4;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: center;
+color: #000000;
+padding: 17px 34px;
+}
+
+.hero__img {
+    width: 500px;
+height: 500px;
+top: 208px;
+left: 876px;
+margin-top: 100px;
+}
+
+.hero__img2 {
+    width: 486px;
+height: 486px;
+top: 858px;
+left: 221px;
+margin-top: 130px;
+}
+
+.btn {
+    margin-top: 50px;
+}
+
+.hero__h3__old {
+    width: 496px;
+height: 122px;
+top: 987px;
+left: 892px;
+font-family: Roboto;
+font-size: 49px;
+font-weight: 700;
+line-height: 64px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.intro__h3 {
+    width: 302px;
+height: 73px;
+top: 1556px;
+left: 649px;
+font-family: Roboto;
+font-size: 48px;
+font-weight: 500;
+line-height: 73px;
+letter-spacing: 0em;
+text-align: center;
+margin-left: 420px;
+margin-top: 200px;
+}
+
+.intro__father {
+    display: flex;
+    gap: 80px;
+}
+
+.intro__child {
+    width: 324px;
+height: 346px;
+top: 1689px;
+left: 221px;
+}
+
+.intro__img {
+    width: 150px;
+height: 150px;
+top: 1689px;
+left: 308px;
+margin-left: 85px;
+margin-top: 60px;
+}
+
+.intro__h4 {
+    width: 155px;
+height: 36px;
+top: 1899px;
+left: 296px;
+font-family: Roboto;
+font-size: 28px;
+font-weight: 500;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+margin-left: 75px;
+}
+
+.intro__p {
+    width: 324px;
+height: 90px;
+top: 1945px;
+left: 221px;
+opacity: 0.7px;
+font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+.saying {
+    width: 712px;
+height: 73px;
+top: 2169px;
+left: 232px;
+font-family: Roboto;
+font-size: 48px;
+font-weight: 500;
+line-height: 73px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: 230px;
+}
+
+.saying__father {
+    display: flex;
+    gap: 70px;
+}
+
+.sign__h4 {
+    width: 361px;
+height: 37px;
+top: 2836px;
+left: 619px;
+font-family: Roboto;
+font-size: 31px;
+font-weight: 500;
+line-height: 37px;
+letter-spacing: 0em;
+text-align: right;
+color: #058AFF;
+margin-left: 320px;
+}
+
+.sign__p{
+    width: 251px;
+height: 23px;
+top: 2888px;
+left: 674px;
+opacity: 0.7px;
+font-family: Roboto;
+font-size: 20px;
+font-weight: 500;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: center;
+margin-left: 400px;
+}
+
+.sign__input{
+    width: 487px;
+height: 82px;
+top: 2941px;
+left: 556px;
+border-radius: 10px;
+border: 1px;
+opacity: 0.2px;
+border: 1px solid #058AFF;
+padding: 0px 80px;
+margin-left: 200px;
+}
+
+.sign__img {
+    width: 32px;
+height: 25.6px;
+top: 2829px;
+left: 421px;
+border: 1px;
+position: absolute;
+
+}
+
+.sign__btn {
+    width: 102px;
+height: 52px;
+top: 2816px;
+left: 916px;
+border-radius: 10px;
+background: #0082F4;
+font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: center;
+border: 0;
+position: absolute;
+}
+
+.Mission {
+    display: flex;
+    gap: 150px;
+    margin-top: 100px;
+
+}
+
+.footer {
+    display: flex;
+    background: linear-gradient(180deg, #058AFF 0%, rgba(57, 55, 206, 0.87) 97.91%);
+
+}
+
+.footer__p {
+    width: 630px;
+height: 30px;
+top: 3473px;
+left: 230px;
+font-family: Roboto;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+margin-left: 230px;
+
+}
+
+.footer__img {
+    margin-left: 100px;
+}
+
+.footer__btn {
+    width: 131px;
+height: 52px;
+top: 3462px;
+left: 1239px;
+border-radius: 10px;
+font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: center;
+color: #3C61E1;
+background: #FFFFFF;
+margin-left: 30px;
+border: 0;
+margin-top: 10px;
+}
